@@ -1,0 +1,7 @@
+Ukuran: 1 x 1
+
+Konfigurasi Awal:
+A
+
+Solusi (# = Queen):
+#

@@ -1,0 +1,15 @@
+Ukuran: 5 x 5
+
+Konfigurasi Awal:
+AABBC
+ABBBC
+AACCC
+DDCEE
+CCCEE
+
+Solusi (# = Queen):
+#ABBC
+AB#BC
+AACC#
+D#CEE
+CCC#E
