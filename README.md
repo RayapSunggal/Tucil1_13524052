@@ -1,6 +1,8 @@
 # Tucil1_13524052
 Implementasi algoritma Brute Force untuk mencari solusi dalam permainan Queens LinkedIn. Program juga dapat memvisualisasi proses brute force dan solusi dapat disimpan dalam bentuk txt dan gambar.
 
+Dibuat oleh: Raynard Fausta
+
 Permainan Queens LinkedIn merupakan permainan logika yang dapat diakses di situs jejaring profesional Linkedin. Permainan ini dimainkan pada sebuah papan yang berukuran n*n(persegi). Untuk menyelesaikan permainan ini, seorang pemain harus mampu menempatkan n buah bidak ratu sedemikian rupa sehingga pada setiap baris, kolom, dan zona berwarna terdapat tepat 1 ratu. Selain itu, dua atau lebih bidak ratu tidak boleh ditempatkan bersebelahan dalam segala arah (horizontal, vertikal, dan diagonal).
 
 
