@@ -27,3 +27,9 @@ cd src
 javac program.java programOptimal.java programGUI.java
 java programGUI
 ```
+
+atau gunakan
+```bash
+cd bin
+java -jar program.jar
+```
